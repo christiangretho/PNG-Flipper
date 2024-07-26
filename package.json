@@ -1,0 +1,15 @@
+{
+  "name": "image-flipper",
+  "version": "1.0.0",
+  "description": "flips a png image that is intended to be used in animations.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --inspect index.js"
+  },
+  "keywords": [],
+  "author": "CGB",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.4"
+  }
+}
