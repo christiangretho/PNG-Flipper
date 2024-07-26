@@ -11,4 +11,4 @@ This script takes the png assets divides the image by the number of frames and f
 1. Create a nested directory in the input directory with all of the pngs you have for an individual character.
 2. Rename the file with the number of frames it has and delimit it with a "\_" Ex. "2_Jump.png"
 3. > npm install && npm start
-4. Viola your flipped assets should be in the output directory.
+4. Voilà your flipped assets should be in the output directory.
